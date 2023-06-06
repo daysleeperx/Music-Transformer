@@ -548,9 +548,5 @@ TSWLatexianTemp*
 # models
 /models/
 
-# MIDI
-*.midi
-*.mid
-
 # Soundfont
 *.sf2

@@ -12,9 +12,9 @@ gsutil cp "gs://magentadata/models/music_transformer/checkpoints/unconditional_m
 
 Score-Conditioned Music Transformer
 ```bash
-gsutil cp "gs://magentadata/models/music_transformer/multistaff/checkpoints/melody_conditioned_model_16.ckpt.data-00000-of-00001" ./models/music_transformer/
-gsutil cp "gs://magentadata/models/music_transformer/multistaff/checkpoints/melody_conditioned_model_16.ckpt.index" ./models/music_transformer/
-gsutil cp "gs://magentadata/models/music_transformer/multistaff/checkpoints/melody_conditioned_model_16.ckpt.meta" ./models/music_transformer/
+gsutil cp "gs://magentadata/models/music_transformer/checkpoints/melody_conditioned_model_16.ckpt.data-00000-of-00001" ./models/music_transformer/
+gsutil cp "gs://magentadata/models/music_transformer/checkpoints/melody_conditioned_model_16.ckpt.index" ./models/music_transformer/
+gsutil cp "gs://magentadata/models/music_transformer/checkpoints/melody_conditioned_model_16.ckpt.meta" ./models/music_transformer/
 ```
 
 ## Downloading the SoundFont
